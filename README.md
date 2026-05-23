@@ -1,6 +1,6 @@
 ## OsintHat - The Osint Hunter
 
-**OsintHat** adalah alat investigasi Open Source Intelligence (OSINT) mutakhir yang dirancang untuk melacak dan mengungkap jejak digital subjek target di lebih dari 1000++ platform global dan nasional. Dengan mengombinasikan multi-threading berkecepatan tinggi, otomatisasi browser untuk bypass proteksi JavaScript, rotasi sirkuit proxy Tor, serta teknik Advanced Google Dorking, OsintHat menjadi senjata andalan para investigator siber, analis intelijen, dan pentester.
+**OsintHat** adalah alat investigasi Open Source Intelligence (OSINT) mutakhir yang dirancang untuk melacak dan mengungkap jejak digital subjek target di platform global dan nasional. Dengan mengombinasikan multi-threading berkecepatan tinggi, otomatisasi browser untuk bypass proteksi JavaScript, rotasi sirkuit proxy Tor, serta teknik Advanced Google Dorking, OsintHat menjadi senjata andalan para investigator siber, analis intelijen, dan pentester.
 
 ---
 
